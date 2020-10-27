@@ -10,3 +10,7 @@ The most basic analysis of humans breaks down to gender, male vs. female vs. oth
 In the second dashboard a completed analysis of gender for the October 2020 citibike data can be viewed. By using a gantt graph one can see how female (gender 2) have longer trip durations overall versus other genders. Although males (gender 1) and other (gender 0) have data points with longer duration, females show a continuous overall trip duration. 
 
 The second dashboard also houses a street view map of all the end station locations and an overlay map of gender compared areas. By reviewing the map one can see that a large amount of stations are located in areas that are highly equal in gender with a ratio of 1.012 to 1.11 viewable in light green.  
+
+
+
+https://public.tableau.com/profile/julia.alsop#!/vizhome/Tableauhomework_16036823971350/Gender?publish=yes
